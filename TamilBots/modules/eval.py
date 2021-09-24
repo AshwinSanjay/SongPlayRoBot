@@ -1,7 +1,7 @@
 import io
 import sys
 import traceback
-from TamilBots import app
+from Bot World import app
 from pyrogram import Client, filters
 from config import OWNER_ID
 
