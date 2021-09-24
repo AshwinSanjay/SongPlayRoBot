@@ -2,9 +2,9 @@ from pyrogram.types.messages_and_media import message
 from config import OWNER_ID
 from pyrogram import filters
 from pyrogram.errors import BadRequest
-from TamilBots import app
-import TamilBots.sql.blacklist_sql as sql
-from TamilBots.TamilBots import get_arg
+from Bot World import app
+import Bot World .sql.blacklist_sql as sql
+from Bot World.Bot World import get_arg
 
 
 @app.on_message(filters.user(OWNER_ID) & filters.command("blacklist"))
