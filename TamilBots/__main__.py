@@ -5,7 +5,7 @@ from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
 from Bot World import app, LOGGER
-from Bot World.TamilBots import ignore_blacklisted_users
+from Bot World.Bot World import ignore_blacklisted_users
 from Bot World.sql.chat_sql import add_chat_to_db
 
 start_text = """
