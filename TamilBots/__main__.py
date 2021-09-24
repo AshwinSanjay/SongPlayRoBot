@@ -1,12 +1,12 @@
 from config import OWNER_ID
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
-from TamilBots.modules import *
+from Bot World.modules import *
 from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
-from TamilBots import app, LOGGER
-from TamilBots.TamilBots import ignore_blacklisted_users
-from TamilBots.sql.chat_sql import add_chat_to_db
+from Bot World import app, LOGGER
+from Bot World.TamilBots import ignore_blacklisted_users
+from Bot World.sql.chat_sql import add_chat_to_db
 
 start_text = """
 👋 𝗛𝗲𝗹𝗹𝗼 [{}](tg://user?id={}),
