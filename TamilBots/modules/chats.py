@@ -1,7 +1,7 @@
 from config import OWNER_ID
 from pyrogram import filters
 from Bot World import app
-from Bot World.TamilBots import get_arg
+from Bot World.Bot World import get_arg
 from Bot World.sql.chat_sql import load_chats_list, remove_chat_from_db
 from io import BytesIO
 
