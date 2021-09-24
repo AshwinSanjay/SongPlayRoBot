@@ -20,10 +20,10 @@ Easy To Deploy 🤗
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/Songs_Player_bot.git)
 
 ## Group
-You can also join our support group [HERE!](https://t.me/Movies_World_8) 👨🏻‍💻
+You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This Person 📲 [Ashwin🧑‍💻](https://t.me/Ashwin_sanjay) 😪
+Report your problem along with your name to This Person 📲 [Ashwin🧑‍💻](https://t.me/IMVETRI) 😎
 
 
 
